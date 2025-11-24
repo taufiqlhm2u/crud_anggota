@@ -11,8 +11,6 @@ Project ini memiliki fitur login sederhana dan halaman utama sebelum pengguna da
 
 ## 🖥 Preview Tampilan
 
-> (Ganti link/filename sesuai screenshot yang kamu punya)
-
 | Login | Home | Data Anggota |
 |-------|------|--------------|
 | <img src="XIRPL1_Taufiqul_Hakim_35_anggota/preview/login.png" width="250"/> | <img src="XIRPL1_Taufiqul_Hakim_35_anggota/preview/home.png" width="250"/> | <img src="XIRPL1_Taufiqul_Hakim_35_anggota/preview/anggota.png" width="250"/> |
