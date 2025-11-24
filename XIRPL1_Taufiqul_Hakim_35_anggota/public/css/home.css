@@ -1,0 +1,9 @@
+.popup {
+  margin-top: 20px;
+  position: absolute;
+  width: 300px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 4;
+  display: none;
+}
